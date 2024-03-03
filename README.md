@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+Description :-
+It is a basic currency converter app which convert dollsrs into indian rupees.
+It is for beginners who want to start flutter app development.
+It uses stateful widgets and other useful widgets for designing UI/UX.
+It uses Function concept.
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
