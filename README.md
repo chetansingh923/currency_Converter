@@ -1,5 +1,16 @@
-# currency_Converter
-This is a basic currency converter app which converts dollars to indian rupees.
-It is for those who are beginner to flutter.
-It includes use of stateful widgets and other useful widgets used for designing UI/UX.
-It contains a fuction which do the calculation.
+# currency_converter
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
